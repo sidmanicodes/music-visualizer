@@ -2,7 +2,7 @@
   "name": "music-visualizer",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
-  "homepage": "http://sidmanicodes.github.io/beat-visualizer",
+  "homepage": "http://sidmanicodes.github.io/music-visualizer",
   "scripts": {
     "start": "expo start",
     "predeploy" : "npm run build",
